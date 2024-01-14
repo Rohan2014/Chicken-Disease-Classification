@@ -10,7 +10,7 @@ Dataset: Our dataset consists of fecal images collected from chickens, categoriz
 
 Deployment on Microsoft Azure: We have implemented a continuous integration and continuous deployment (CI/CD) pipeline using Microsoft Azure. This pipeline automates the deployment of our trained model, making it easily accessible and available for real-time classification.
 
-#Usage
+# Usage
 To utilize this image classification model, follow these steps:
 
 Training: You can train the model further on your dataset if needed. Fine-tuning the model with your data may enhance its accuracy for specific chicken health classification tasks.
